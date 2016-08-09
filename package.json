@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominic-taylor/todom.git"
+    "url": "git+https://github.com/dominic-taylor/angular-todo.git"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dominic-taylor/todom#readme",
   "dependencies": {
+    "angular": "^1.5.8",
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.1",
     "browserify": "^13.0.1",
